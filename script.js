@@ -5,5 +5,5 @@ function abrirNuevoTab(url) {
     win.focus();
   }
   $('#open').click(function(){
-    abrirNuevoTab('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
+    abrirNuevoTab('https://www.youtube.com/watch?v=mow6oFj4MPs')
   })
